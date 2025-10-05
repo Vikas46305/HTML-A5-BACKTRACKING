@@ -1,0 +1,34 @@
+
+body{
+  margin:100px;
+  font-size: 18px;
+  color:rgb(123, 118, 118);
+ 
+  
+}
+h1,h2{
+  color:black;
+}
+strong{
+  color:black;
+}
+b{
+  color:black;
+  
+}
+pre{
+  color:red;
+  font-weight: 500;
+  
+}
+fieldset{
+   border-radius: 15px;
+     padding: 10px;
+}
+
+
+
+
+
+
+
